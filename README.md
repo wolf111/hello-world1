@@ -5,11 +5,13 @@ Learning to use GitHub with Hello World Tutorial
 This is my **first** time using *GitHub*. I hope to learn:
  
  1. How to use GitHub
- 2. Why I am using GitHub
+ 2. Why using GitHub makes sense
       * the best applications for Git
       * when best to use git
+ 3. How long it takes to learn GitHub
 
-### Things I want to avoid
+This is the END
+
     
 
 
